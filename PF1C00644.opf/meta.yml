@@ -1,0 +1,133 @@
+id: PF1C00644
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,01: Pravrajyāvastu'
+  language: sa
+  volumes:
+    ba6c702fc929464b9a0c3615e8dcb531:
+      title: Antaroddāna
+      base_file: Antaroddāna.txt
+      work_id: W98583282
+    1c446311310f426096cf4906966fe661:
+      title: Bodily imperfections
+      base_file: Bodily imperfections.txt
+      work_id: WCEBE99CF
+    c8e7305f2a7c4d2d93f869958f513091:
+      title: Buddha’s smile
+      base_file: Buddha’s smile.txt
+      work_id: WC4115129
+    fbc5adf5c3754246972c074a594b3d37:
+      title: CIII_Buddha in Vaiśālī
+      base_file: CIII_Buddha in Vaiśālī.txt
+      work_id: W2FA90241
+    acd1f08c0f124cd6bdb7bea7d1212ca6:
+      title: CII_Teacher I, Pūraṇa Kāśyapa
+      base_file: CII_Teacher I, Pūraṇa Kāśyapa.txt
+      work_id: W97EC4CE7
+    c2e6a24c61cc454bae2de9f1827c5cd4:
+      title: CII_Teacher II, Maskarin Gośālīputra
+      base_file: CII_Teacher II, Maskarin Gośālīputra.txt
+      work_id: WAEF64DE1
+    764b25ffc7b841c59eaf762782e55fd4:
+      title: CII_Teacher III, Saṃjayin Vairaṭīputra
+      base_file: CII_Teacher III, Saṃjayin Vairaṭīputra.txt
+      work_id: W90245889
+    1812f968d7b3429585e7e166cb3a5111:
+      title: CI_Śāriputra and Mahāmaudgalyāyana
+      base_file: CI_Śāriputra and Mahāmaudgalyāyana.txt
+      work_id: W65C04939
+    134c539bea93408cbda76292405d4d75:
+      title: Historical events
+      base_file: Historical events.txt
+      work_id: WB911EBB4
+    02bc526f0bea42aa9bb7f21fdb12a992:
+      title: Maudgalyāyana’s journey to Hell and Heaven
+      base_file: Maudgalyāyana’s journey to Hell and Heaven.txt
+      work_id: WDC884F20
+    8f8f3e61fe6a46d69372cfb1c0426679:
+      title: Mātṛghātaka
+      base_file: Mātṛghātaka.txt
+      work_id: W8E4EF057
+    5dd32eed1e4f43e5b8eaf6be3e63b1dc:
+      title: Nāgakumāra
+      base_file: Nāgakumāra.txt
+      work_id: W34B04FE7
+    78080c835a1848e7a1676ead1107b033:
+      title: Nāgakumārāvadāna
+      base_file: Nāgakumārāvadāna.txt
+      work_id: WF5818608
+    7dda6c5667214a0e95f34fea51f08aac:
+      title: Pitṛghātaka
+      base_file: Pitṛghātaka.txt
+      work_id: W15D415B3
+    0a9032a9ca0f4ffb905986738c06dc93:
+      title: Pravrajyavastupiṇḍoddāna
+      base_file: Pravrajyavastupiṇḍoddāna.txt
+      work_id: WB8987EB5
+    860f75bd7e83496fb04c2b45fd15a4b6:
+      title: Rule against ordination of Tīrthkas
+      base_file: Rule against ordination of Tīrthkas.txt
+      work_id: WA695B116
+    4b414eacfadc4d71a3c5d5e11ffc4e1b:
+      title: Rules for pravrajyā and upasaṃpadā
+      base_file: Rules for pravrajyā and upasaṃpadā.txt
+      work_id: W8E091541
+    8dad6128f1714047a768f5e7687980dc:
+      title: The conversion of Koṣṭhila
+      base_file: The conversion of Koṣṭhila.txt
+      work_id: W424D03B3
+    eef3d66bf1f044c394c0a2830bda96bc:
+      title: The conversion of Maudgalyāyana and Śāriputra
+      base_file: The conversion of Maudgalyāyana and Śāriputra.txt
+      work_id: W0C830AA2
+    becd6eab3f724842a8dba516c07993ba:
+      title: Uddāna
+      base_file: Uddāna.txt
+      work_id: W6615D4CC
+    4efc1089850c45b581fe8bba20066471:
+      title: Why Koṣṭhila is pratisaṃvedin
+      base_file: Why Koṣṭhila is pratisaṃvedin.txt
+      work_id: W340442F9
+    ccede2542c5b45b48d204b5cbe375434:
+      title: Why Maudgalyāna has magical power 1
+      base_file: Why Maudgalyāna has magical power 1.txt
+      work_id: W1881CA9D
+    2207761812d140b9a82af9cfd5985f56:
+      title: Why Maudgalyāna has magical power 2
+      base_file: Why Maudgalyāna has magical power 2.txt
+      work_id: W97413CC5
+    f7303135d44b4de3b473053805525483:
+      title: Why Saṃgharakṣita was born in a rich family
+      base_file: Why Saṃgharakṣita was born in a rich family.txt
+      work_id: W07DFCDBB
+    020db7e3c3844a979da87233d418edcb:
+      title: Why Śāriputra was neither rich nor poor
+      base_file: Why Śāriputra was neither rich nor poor.txt
+      work_id: W349C1296
+    2cd4026a9d82400aaa187307309ab53a:
+      title: Why Śāriputra was wise 1
+      base_file: Why Śāriputra was wise 1.txt
+      work_id: WD34D3379
+    78f1ad4370c9440bb1a36455bca5870d:
+      title: Why Śāriputra was wise 2
+      base_file: Why Śāriputra was wise 2.txt
+      work_id: WC828AAAF
+    86d52e218ef84513965535f942f36689:
+      title: Ānanda’s two nephews
+      base_file: Ānanda’s two nephews.txt
+      work_id: W43BC8626
+    bda47bc0874549eb947aa3f79194f171:
+      title: ānantaryāni karmāṇi, pārājika, utkṣepaṇīya
+      base_file: ānantaryāni karmāṇi, pārājika, utkṣepaṇīya.txt
+      work_id: WE65E888A
+    d93af0b2210241c592a5ac7708b045b9:
+      title: Śāriputra
+      base_file: Śāriputra.txt
+      work_id: W4BF79907
+  chapter_to_tile:
+    CI: Maudgalyāyana
+    CII: Maudgalyāyana and Śāriputra searching for teachers of various philosopical
+      creeds
+    CIII: Saṃgharakṣitāvadāna
+created_at: '2022-03-01T22:10:05.670002'
+last_modified_at: '2022-03-01T22:10:05.670009'
